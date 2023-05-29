@@ -5,7 +5,7 @@
 package week3;
 
 /**  Local rep - steps 1. initilize versioning, .gitconfig, .gitignore, 4. commit
- *
+ * 5. push the code to github remote repository
  * @author srinivsi
  */
 public class Week3 {
@@ -16,6 +16,7 @@ public class Week3 {
     public static void main(String[] args)
     {
      System.out.println("learning github operationsljkhlk");
+          System.out.println("learning github push");
     }
     
 }
